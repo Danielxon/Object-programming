@@ -1,0 +1,7 @@
+C:\Users\danie\Documents\GitHub\Object-programming\object oriented programming\bin\Debug\object oriented programming.exe.config
+C:\Users\danie\Documents\GitHub\Object-programming\object oriented programming\bin\Debug\object oriented programming.exe
+C:\Users\danie\Documents\GitHub\Object-programming\object oriented programming\bin\Debug\object oriented programming.pdb
+C:\Users\danie\Documents\GitHub\Object-programming\object oriented programming\obj\Debug\object oriented programming.csprojAssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Object-programming\object oriented programming\obj\Debug\object oriented programming.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Object-programming\object oriented programming\obj\Debug\object oriented programming.exe
+C:\Users\danie\Documents\GitHub\Object-programming\object oriented programming\obj\Debug\object oriented programming.pdb
